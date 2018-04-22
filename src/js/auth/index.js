@@ -6,6 +6,6 @@ import AuthConfig from './auth.config';
 authModule.config(AuthConfig);
 
 import AuthCtrl from './auth.controller';
-authModule.controller(AuthCtrl);
+authModule.controller('AuthCtrl',AuthCtrl);
 
 export default authModule;
