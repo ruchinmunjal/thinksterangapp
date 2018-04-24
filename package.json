@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "jscs": "^3.0.7",
-    "jshint": "^2.9.5"
+    "jshint": "^2.9.5",
+    "xo": "^0.20.3"
   }
 }
